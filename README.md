@@ -26,7 +26,7 @@ Step 2 is a JavaScript version of dynamic menus.
 
     git checkout js103-step2
 
-# Next
+# Step 3
 Step 3 adds a main with a gallery of articles in static HTML
 
 ## Checkout step3
