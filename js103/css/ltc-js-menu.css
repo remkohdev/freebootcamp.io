@@ -2,7 +2,7 @@
 	position: relative;
 }
 	.l1c {
-		position: relative;
+	position: relative;
  	float: left;
  	margin: 0px 5px 0px 5px;
  	padding: 10px 10px 10px 10px;
@@ -15,11 +15,12 @@
 	position: absolute;
 	top: 39px;
 	left: -1px;
-	width: 200px;
+	width: auto;
 	visibility: hidden;
 }
 .l3i {
 	border: 1px solid red;
 	background-color: yellow;
 	margin: 0px 0px 0px 0px;
+	padding: 5px 10px 5px 10px;
 }
